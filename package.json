@@ -1,0 +1,28 @@
+{
+  "name": "crudder2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack":"webpack "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyNameIsSpencer/crudder2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyNameIsSpencer/crudder2/issues"
+  },
+  "homepage": "https://github.com/MyNameIsSpencer/crudder2#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.4.1",
+    "react-router-dom": "^4.3.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^4.12.0"
+  }
+}
